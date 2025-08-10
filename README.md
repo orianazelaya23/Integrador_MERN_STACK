@@ -42,8 +42,7 @@ Permite **crear, listar, filtrar, actualizar y eliminar órdenes**, con validaci
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/orianazelaya23/Integrador_MERN_STACK
 
 
 2. **instalar dependencias**
@@ -106,5 +105,5 @@ DELETE /ordenes/:id
 
 ---
 ## **Créditos**
-Desarrollado por [Oriana Olea Zelaya]
+Desarrollado por Oriana Olea Zelaya
 
